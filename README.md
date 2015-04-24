@@ -7,6 +7,5 @@ bind mouse2 "cmd zoom 1"
 bind space "cmd zoom 0"
 in a way to make it possible.
 
- i modiffy the time of explosion of one grenade so its not going explote fast.
-
+ i modiffy the time of explosion of one grenade so its not going explote fast(it will take 60 seconds for explote)
 Also another modification like cluster grenades that once we shut one grenade will splite in 4 .
